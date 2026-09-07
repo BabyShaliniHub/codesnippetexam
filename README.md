@@ -1,9 +1,9 @@
-#CODE SNIPPET LIBRARY
+# CODE SNIPPET LIBRARY
 
-Java
+## Java
 -[evenodd.java]
 -[reverse.java]
-Python
+## Python
 -[sod.py]
-JavaScript
+## JavaScript
 -[maxarray.js]
